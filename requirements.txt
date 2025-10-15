@@ -1,6 +1,6 @@
 pyyaml
 jinja2
-gym @ git+https://github.com/jerrykal/gym.git@fix/v0.21.0-setup-py-error
+gym @ git+https://github.com/jerrykal/gym.git@v0.21.0-custom.1
 lxml
 numpy
 coloredlogs
